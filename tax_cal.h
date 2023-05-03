@@ -13,7 +13,6 @@
 //             NU for Nunavut
 //             YT for Yukon
 //             EX to exit program
-// list_command() lists commands for tax calculator
 void list_command();
 
 double cal_fed_tax(double income);
